@@ -2,7 +2,6 @@ import COVID19Py
 import json
 import urllib.request
 import os
-import matplotlib.pyplot as plt
 #Main-ohjelman osat
 def Titlebar():
     os.system('clear')
